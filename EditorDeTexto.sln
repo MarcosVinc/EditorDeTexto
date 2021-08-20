@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditorDeTexto", "EditorDeTexto\EditorDeTexto.csproj", "{1C5F5602-BA8E-4D57-A566-D5FA07C94B53}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 -GUI", "1 -GUI", "{36ABF58E-5AB6-4BCA-861D-77A4E2E2A6AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C5F5602-BA8E-4D57-A566-D5FA07C94B53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C5F5602-BA8E-4D57-A566-D5FA07C94B53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C5F5602-BA8E-4D57-A566-D5FA07C94B53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C5F5602-BA8E-4D57-A566-D5FA07C94B53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1C5F5602-BA8E-4D57-A566-D5FA07C94B53} = {36ABF58E-5AB6-4BCA-861D-77A4E2E2A6AC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30BDC0C6-CC66-4A90-AE3C-C2B9386E2AD0}
+	EndGlobalSection
+EndGlobal
